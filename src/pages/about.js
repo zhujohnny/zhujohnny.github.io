@@ -58,7 +58,7 @@ class About extends React.Component {
 					{link(`VMware`, `vmware`)}
 					{`, and `}
 					{link(`Hewlett-Packard`, `hp`)}
-					{`. I also [mistakenly] completed my MBA at `}
+					{`. I also [regretfully] completed my MBA at `}
 					{link(`UC Berkeley`, `berkeley`)}.
 				</p>
 				<p>
