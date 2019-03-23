@@ -1,4 +1,5 @@
 ---
+project: true
 title: Jumpstarter
 subtitle: "Optimizing Backend Architecture for Scale"
 date: "2018-05-29T00:00:00.000Z"

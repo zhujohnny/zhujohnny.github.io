@@ -5,19 +5,19 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
 
-class Projects extends React.Component {
+class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
 		const siteTitle = data.site.siteMetadata.title
     const posts = data.allMarkdownRemark.edges
 
     return (
-      <Layout location={this.props.location} title={siteTitle} subtitle={`Projects`}>
+      <Layout location={this.props.location} title={siteTitle} subtitle={`Blog posts`}>
         <SEO
-          title={`Projects`}
-          keywords={[`projects`, `gatsby`, `javascript`, `react`]}
+          title={`Blog`}
+          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        {posts.map(({ node }) => {
+				{posts.map(({ node }) => {
 					const title = node.frontmatter.title || node.fields.slug
 					const subtitle = node.frontmatter.subtitle || null
 					const excerpt = node.frontmatter.excerpt || node.excerpt
@@ -50,35 +50,35 @@ class Projects extends React.Component {
   }
 }
 
-export default Projects
+export default BlogIndex
 
 export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-    allMarkdownRemark(
-			filter: {
-				frontmatter: {project: {eq: true}}
+query {
+	site {
+		siteMetadata {
+			title
+		}
+	}
+	allMarkdownRemark(
+		filter: {
+			frontmatter: {project: {eq: false}}
+		}
+		sort: { fields: [frontmatter___date], order: DESC }) {
+		edges {
+			node {
+				excerpt
+				fields {
+					slug
+				}
+				frontmatter {
+					project
+					title
+					subtitle
+					date(formatString: "MMMM DD, YYYY")
+					excerpt
+				}
 			}
-			sort: { fields: [frontmatter___date], order: DESC }) {
-      edges {
-        node {
-          excerpt
-          fields {
-            slug
-          }
-          frontmatter {
-						project
-						title
-						subtitle
-            date(formatString: "MMMM DD, YYYY")
-						excerpt
-          }
-        }
-      }
-    }
-  }
+		}
+	}
+}
 `

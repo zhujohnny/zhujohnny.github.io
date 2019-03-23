@@ -1,4 +1,5 @@
 ---
+project: true
 title: Welp
 subtitle: "Component Design Within a Microservices Architecture"
 date: "2018-05-30T00:00:00.000Z"

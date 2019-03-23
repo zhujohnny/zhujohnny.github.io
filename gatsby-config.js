@@ -6,6 +6,13 @@ module.exports = {
 		siteUrl: `https://zhujohnny.com`,
   },
   plugins: [
+		{
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/assets`,
+        name: `assets`,
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -13,13 +20,13 @@ module.exports = {
         name: `blog`,
       },
     },
-    {
+		{
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/assets`,
-        name: `assets`,
+        path: `${__dirname}/content/projects`,
+        name: `projects`,
       },
-    },
+		},
     {
       resolve: `gatsby-transformer-remark`,
       options: {

@@ -1,4 +1,5 @@
 ---
+project: true
 title: Visualizing World Bank Logistics Data
 date: "2016-05-02T00:00:00.000Z"
 excerpt: "A team of us worked together to build a visualization using D3.js to understand trade logistics around the world. We created a choropleth map, radar charts, and a vertical bar chart filterable using dropdowns and sliders."
