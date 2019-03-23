@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState, useEffect } from "react"
 import { Link } from "gatsby"
 
 import logo from "./pearl-logo.png"
@@ -15,68 +15,87 @@ const pages = {
 	}
 }
 
-const Nav = ({ title }) => (
-	<div style={{
-		display: `flex`,
-		flexDirection: `row`,
-		justifyContent: `space-between`,
-		alignItems: `center`,
-		marginBottom: rhythm(6 / 4),
-	}}>
+const Nav = ({ title }) => {
+
+	const MOBILE_WIDTH = 480;
+
+	const [isMobile, setIsMobile] = useState(window.innerWidth <= MOBILE_WIDTH);
+	
+	useEffect(() => {
+		const updateWindowDimensions = () => {
+			setIsMobile(window.innerWidth <= MOBILE_WIDTH);
+		}
+		window.addEventListener('resize', updateWindowDimensions);
+		return () => {
+			window.removeEventListener('resize', updateWindowDimensions);
+		}
+	})	
+
+	return (
 		<div style={{
 			display: `flex`,
-			flexDirection: `row`,
+			flexDirection: isMobile ? `column` : `row`,
+			alignItems: isMobile ? `flex-start` : `center`,
+			justifyContent: `space-between`,
+			marginBottom: rhythm(6 / 4),
 		}}>
-			<img 
-				src={logo}
-				alt={``}
-				width={`40px`} 
-				height={`40px`} 
-				style={{
-					marginTop: `4px`,
-				}}
-			/>
-			<h1
-				style={{
-					marginBottom: 0,
-					marginLeft: rhythm(5 / 4),
-					...scale(6 / 4),
-				}}
-			>
-				<Link
+			<div style={{
+				display: `flex`,
+				flexDirection: `row`,
+			}}>
+				<img 
+					src={logo}
+					alt={``}
+					width={`40px`} 
+					height={`40px`} 
 					style={{
-						boxShadow: `none`,
-						textDecoration: `none`,
-						color: `inherit`,
+						marginTop: `4px`,
 					}}
-					to={`/`}
-				>
-					{title}
-				</Link>
-			</h1>
-		</div>
-		<div style={{
-			display: `flex`,
-			flexDirection: `row`,
-		}}>
-			{Object.entries(pages).map(([key, page]) => (
-				<Link
-					key={key}
+				/>
+				<h1
 					style={{
-						fontSize: `14px`,
-						fontWeight: `500`,
-						boxShadow: `none`,
-						textDecoration: `none`,
-						color: `gray`,
-						marginLeft: rhythm(1)
-				}}
-					to={page.url}
+						marginBottom: 0,
+						marginLeft: rhythm(5 / 4),
+						...scale(6 / 4),
+					}}
 				>
-					{page.display}
-				</Link>
-			))}
+					<Link
+						style={{
+							boxShadow: `none`,
+							textDecoration: `none`,
+							color: `inherit`,
+						}}
+						to={`/`}
+					>
+						{title}
+					</Link>
+				</h1>
+			</div>
+			<div style={{
+				display: `flex`,
+				flexDirection: `row`,
+				marginTop: isMobile ? `-7px` : `0px`,
+				paddingLeft: isMobile ? `47px` : `0px`
+			}}>
+				{Object.entries(pages).map(([key, page]) => (
+					<Link
+						key={key}
+						style={{
+							fontSize: `14px`,
+							fontWeight: `500`,
+							boxShadow: `none`,
+							textDecoration: `none`,
+							color: `gray`,
+							marginLeft: rhythm(1)
+					}}
+						to={page.url}
+					>
+						{page.display}
+					</Link>
+				))}
+			</div>
 		</div>
-	</div>
-)
+	)
+}
 
 export default Nav
