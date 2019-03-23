@@ -19,7 +19,7 @@ const Nav = ({ title }) => {
 
 	const MOBILE_WIDTH = 480;
 
-	const [isMobile, setIsMobile] = useState(window.innerWidth <= MOBILE_WIDTH);
+	const [isMobile, setIsMobile] = useState(typeof window !== 'undefined' ? window.innerWidth <= MOBILE_WIDTH : true);
 	
 	useEffect(() => {
 		const updateWindowDimensions = () => {

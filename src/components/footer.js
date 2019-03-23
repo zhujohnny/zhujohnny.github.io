@@ -14,15 +14,15 @@ const social = {
 		display: `jozhu`,
 		url: `https://www.linkedin.com/in/jozhu`,
 	},
-	github: {
-		icon: `github`,
-		display: `zhujohnny`,
-		url: `https://github.com/zhujohnny`
-	},
 	twitter: {
 		icon: `twitter`,
 		display: `zhujohnny`,
 		url: `https://twitter.com/zhujohnny`
+	},
+	github: {
+		icon: `github`,
+		display: `zhujohnny`,
+		url: `https://github.com/zhujohnny`
 	}
 };
 

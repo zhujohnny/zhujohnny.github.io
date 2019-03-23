@@ -15,11 +15,12 @@ const Header = ({ subtitle }) => (
 			<img 
 				src={profilePic}
 				alt={``}
-				width={`20%`} 
-				height={`20%`}
+				width={`100px`} 
+				height={`100px`}
 				style={{
 					marginTop: rhythm(-3 / 4),
 					marginBottom: rhythm(-2 / 4),
+					marginRight: rhythm(2 / 4),
 					float: `right`
 				}}
 			/>
