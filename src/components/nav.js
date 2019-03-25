@@ -9,10 +9,15 @@ const pages = {
 		display: `Projects`,
 		url: `/`,
 	},
+	blog: {
+		display: `Blog`,
+		url: `/blog`,
+	},
 	about: {
-		display: `About me`,
+		display: `About`,
 		url: `/about`,
 	}
+
 }
 
 const Nav = ({ title }) => {

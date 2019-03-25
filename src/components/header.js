@@ -18,7 +18,7 @@ const Header = ({ subtitle }) => (
 				width={`100px`} 
 				height={`100px`}
 				style={{
-					marginTop: rhythm(-3 / 4),
+					marginTop: rhythm(-1 / 4),
 					marginBottom: rhythm(-2 / 4),
 					marginRight: rhythm(2 / 4),
 					float: `right`

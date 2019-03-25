@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
+import { faItalic } from "@fortawesome/free-solid-svg-icons";
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -13,12 +14,21 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle} subtitle={post.frontmatter.title}>
+				<h3
+					style={{
+					display: `block`,
+					marginBottom: rhythm(3 / 4),
+					marginTop: rhythm(-5 / 4),
+					fontWeight: 700
+          }}
+				>
+					{post.frontmatter.subtitle}	
+				</h3>
         <SEO title={post.frontmatter.title} description={post.excerpt} />
         <p
           style={{
             display: `block`,
-            marginBottom: rhythm(1),
-						marginTop: rhythm(-1),
+            marginBottom: rhythm(6 / 4),
 						color: `gray`,
           }}
         >
@@ -72,7 +82,8 @@ export const pageQuery = graphql`
       excerpt(pruneLength: 160)
       html
       frontmatter {
-        title
+				title
+				subtitle
         date(formatString: "MMMM DD, YYYY")
       }
     }
