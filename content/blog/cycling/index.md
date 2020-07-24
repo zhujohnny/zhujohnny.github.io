@@ -26,3 +26,5 @@ excerpt: "Decided to invest in a new bike this year. Here's a list of parts and 
   * SEAT CLAMP: CANYON INTEGRATED
   * PEDALS: NONE INCLUDED
   * WEIGHT 7,6 KG (SIZE M)
+
+  <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/5990835/latest-rides/1e237dd25aae674bc3c8ed1078db8f6f5e2be4d1'></iframe>
