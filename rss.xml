@@ -1,75 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Johnny Zhu]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://zhujohnny.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 07 Jun 2019 20:22:43 GMT</lastBuildDate><item><title><![CDATA[Spotify]]></title><description><![CDATA[Still looking for a DJ name. Suggestions welcome.]]></description><link>https://zhujohnny.com/spotify/</link><guid isPermaLink="false">https://zhujohnny.com/spotify/</guid><pubDate>Thu, 18 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;div&gt;
-          &lt;div
-            class=&quot;gatsby-resp-iframe-wrapper&quot;
-            style=&quot;padding-bottom: 16.666666666666664%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
-          &gt;
-            &lt;iframe src=&quot;https://open.spotify.com/follow/1/?uri=spotify:user:1249418396&amp;amp;size=detail&amp;amp;theme=light&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-          &quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;  
-          &lt;/div&gt;
-          &lt;/div&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Johnny Zhu]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://zhujohnny.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 24 Jul 2020 17:07:49 GMT</lastBuildDate><item><title><![CDATA[Spotify]]></title><description><![CDATA[Still looking for a DJ name. Suggestions welcome.]]></description><link>https://zhujohnny.com/spotify/</link><guid isPermaLink="false">https://zhujohnny.com/spotify/</guid><pubDate>Thu, 18 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 16.666666666666664%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://open.spotify.com/follow/1/?uri=spotify:user:1249418396&amp;amp;size=detail&amp;amp;theme=light&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;border:none; ; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;   &lt;/div&gt;
 &lt;p&gt;&lt;em&gt;Still looking for a DJ name. Suggestions welcome.&lt;/em&gt;&lt;/p&gt;
 &lt;!-- &lt;iframe src=&quot;https://open.spotify.com/embed/user/1249418396/playlist/14vtOFSOhHcbWVWAdN9IWS&quot; width=&quot;300&quot; height=&quot;150&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt; --&gt;
-&lt;div&gt;
-          &lt;div
-            class=&quot;gatsby-resp-iframe-wrapper&quot;
-            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
-          &gt;
-            &lt;iframe src=&quot;https://open.spotify.com/embed/user/1249418396/playlist/1JUrLoCxdQeb0dd8zdBmLD&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot; style=&quot;
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-          &quot;&gt;&lt;/iframe&gt;
-          &lt;/div&gt;
-          &lt;/div&gt;
-&lt;div&gt;
-          &lt;div
-            class=&quot;gatsby-resp-iframe-wrapper&quot;
-            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
-          &gt;
-            &lt;iframe src=&quot;https://open.spotify.com/embed/user/1249418396/playlist/7CUcG6qRfKkAywr4MWIoBK&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot; style=&quot;
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-          &quot;&gt;&lt;/iframe&gt;
-          &lt;/div&gt;
-          &lt;/div&gt;
-&lt;div&gt;
-          &lt;div
-            class=&quot;gatsby-resp-iframe-wrapper&quot;
-            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
-          &gt;
-            &lt;iframe src=&quot;https://open.spotify.com/embed/user/1249418396/playlist/383HOS3Wx9V2DtulPN15IJ&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot; style=&quot;
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-          &quot;&gt;&lt;/iframe&gt;
-          &lt;/div&gt;
-          &lt;/div&gt;
-&lt;div&gt;
-          &lt;div
-            class=&quot;gatsby-resp-iframe-wrapper&quot;
-            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
-          &gt;
-            &lt;iframe src=&quot;https://open.spotify.com/embed/user/1249418396/playlist/26PGZ3ZRHEjrafOvmvffqz&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot; style=&quot;
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-          &quot;&gt;&lt;/iframe&gt;
-          &lt;/div&gt;
-          &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Cycling]]></title><description><![CDATA[BIKE: CANYON ULTIMATE CF SL DISC 8.0 FRAME: CANYON ULTIMATE CF SL DISC FORK: CANYON ONE ONE FOUR SL DISC HEADSET: CANYON | ACROS REAR…]]></description><link>https://zhujohnny.com/cycling/</link><guid isPermaLink="false">https://zhujohnny.com/cycling/</guid><pubDate>Thu, 04 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h4&gt;BIKE: CANYON ULTIMATE CF SL DISC 8.0&lt;/h4&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://open.spotify.com/embed/user/1249418396/playlist/1JUrLoCxdQeb0dd8zdBmLD&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://open.spotify.com/embed/user/1249418396/playlist/7CUcG6qRfKkAywr4MWIoBK&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://open.spotify.com/embed/user/1249418396/playlist/383HOS3Wx9V2DtulPN15IJ&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://open.spotify.com/embed/user/1249418396/playlist/26PGZ3ZRHEjrafOvmvffqz&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Cycling]]></title><description><![CDATA[BIKE: CANYON ULTIMATE CF SL DISC 8.0 FRAME: CANYON ULTIMATE CF SL DISC FORK: CANYON ONE ONE FOUR SL DISC HEADSET: CANYON | ACROS REAR…]]></description><link>https://zhujohnny.com/cycling/</link><guid isPermaLink="false">https://zhujohnny.com/cycling/</guid><pubDate>Thu, 04 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h4&gt;BIKE: CANYON ULTIMATE CF SL DISC 8.0&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;FRAME: CANYON ULTIMATE CF SL DISC&lt;/li&gt;
 &lt;li&gt;FORK: CANYON ONE ONE FOUR SL DISC&lt;/li&gt;
@@ -91,7 +26,8 @@
 &lt;li&gt;SEAT CLAMP: CANYON INTEGRATED&lt;/li&gt;
 &lt;li&gt;PEDALS: NONE INCLUDED&lt;/li&gt;
 &lt;li&gt;WEIGHT 7,6 KG (SIZE M)&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[San Francisco]]></title><description><![CDATA[Coffee Ritual (Flora Grubb Gardens), Saint Frank (SOMA), Equator (SOMA) Sightglass (SOMA), Four Barrel (Mission), Andytown (Taraval…]]></description><link>https://zhujohnny.com/san-francisco/</link><guid isPermaLink="false">https://zhujohnny.com/san-francisco/</guid><pubDate>Tue, 19 Mar 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h4&gt;Coffee&lt;/h4&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 151.33333333333334%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; scrolling=&quot;no&quot; src=&quot;https://www.strava.com/athletes/5990835/latest-rides/1e237dd25aae674bc3c8ed1078db8f6f5e2be4d1&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[San Francisco]]></title><description><![CDATA[Coffee Ritual (Flora Grubb Gardens), Saint Frank (SOMA), Equator (SOMA) Sightglass (SOMA), Four Barrel (Mission), Andytown (Taraval…]]></description><link>https://zhujohnny.com/san-francisco/</link><guid isPermaLink="false">https://zhujohnny.com/san-francisco/</guid><pubDate>Tue, 19 Mar 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h4&gt;Coffee&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;Ritual (Flora Grubb Gardens), Saint Frank (SOMA), Equator (SOMA)&lt;/li&gt;
 &lt;li&gt;Sightglass (SOMA), Four Barrel (Mission), Andytown (Taraval), Wrecking Ball (Cow Hollow)&lt;/li&gt;
@@ -133,7 +69,7 @@
 &lt;li&gt;Bergerac, Third Rail, Junior, Linden Room, Ungrafted&lt;/li&gt;
 &lt;li&gt;Alchemist, Evil Eye, Holy Water, True Laurel, The Cordial&lt;/li&gt;
 &lt;li&gt;Novela, Local Edition, ABV, Barbarossa, Bloodhound&lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Welp]]></title><description><![CDATA[Built with  React . A discovery app for local restaurant information and reviews, modeled after Yelp.  The project was an exercise in…]]></description><link>https://zhujohnny.com/welp/</link><guid isPermaLink="false">https://zhujohnny.com/welp/</guid><pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Built with &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt;. A discovery app for local restaurant information and reviews, modeled after Yelp. &lt;/p&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Welp]]></title><description><![CDATA[Built with React. A discovery app for local restaurant information and reviews, modeled after Yelp.  The project was an exercise in…]]></description><link>https://zhujohnny.com/welp/</link><guid isPermaLink="false">https://zhujohnny.com/welp/</guid><pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Built with &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt;. A discovery app for local restaurant information and reviews, modeled after Yelp. &lt;/p&gt;
 &lt;p&gt;The project was an exercise in component design within a larger &lt;a href=&quot;http://microservices.io/&quot;&gt;microservices architecture&lt;/a&gt;.
 I personally built the &lt;a href=&quot;https://github.com/hrsf93-welp/welp-restaurant-details&quot;&gt;Restaurant Details&lt;/a&gt; component, a service provided to a parent restaurant page. The service implements a RESTful API on the backend to retrieve data from a MongoDB database.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;It contains 4 major sub-components:&lt;/strong&gt;&lt;/p&gt;
@@ -145,23 +81,7 @@ I personally built the &lt;a href=&quot;https://github.com/hrsf93-welp/welp-rest
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;Here’s the full page:&lt;/p&gt;
-&lt;div&gt;
-          &lt;div
-            class=&quot;gatsby-resp-iframe-wrapper&quot;
-            style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
-          &gt;
-            &lt;div class=&quot;video-container&quot;&gt;
-  &lt;iframe src=&quot;https://www.youtube.com/embed/iRxMxa_h2MU&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen style=&quot;
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-          &quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-*Technologies: JavaScript, React, HTML/CSS/Sass, Node.js, Express, Redis, MongoDB, Jest/Enzyme, Webpack, Docker, AWS EC2, Google Maps API, moment.js*
-          &lt;/div&gt;
-          &lt;/div&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;div class=&quot;video-container&quot;&gt; &lt;iframe src=&quot;https://www.youtube.com/embed/iRxMxa_h2MU&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt; *Technologies: JavaScript, React, HTML/CSS/Sass, Node.js, Express, Redis, MongoDB, Jest/Enzyme, Webpack, Docker, AWS EC2, Google Maps API, moment.js* &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Related Projects&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/hrsf93-welp/welp-restaurant-details&quot;&gt;https://github.com/hrsf93-welp/welp-restaurant-details&lt;/a&gt;&lt;/li&gt;
@@ -176,22 +96,7 @@ The two main goals of my work were to:&lt;/p&gt;
 &lt;li&gt;Handle a large amount of simultaneous requests made to the server (requests per second, RPS with an error rate below 0.01%)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Having inherited a minimum viable product, there was little work I had to do on the frontend, but you can see it in action here:&lt;/p&gt;
-&lt;div&gt;
-          &lt;div
-            class=&quot;gatsby-resp-iframe-wrapper&quot;
-            style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
-          &gt;
-            &lt;div class=&quot;video-container&quot;&gt;
-  &lt;iframe src=&quot;https://player.vimeo.com/video/267902202&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen style=&quot;
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-          &quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-          &lt;/div&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;div class=&quot;video-container&quot;&gt; &lt;iframe src=&quot;https://player.vimeo.com/video/267902202&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;
 &lt;p&gt;I began by identifying the key areas to explore for optimization:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Database server: query optimization and database selection &lt;/li&gt;
@@ -602,7 +507,7 @@ I ran into some limitations using Artillery, since it didn’t support offer &lt
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/feff4c61490f4b89faee89d50064af56/4fa51/jumpstarter-newrelic.png&quot;
+    href=&quot;/static/feff4c61490f4b89faee89d50064af56/29007/jumpstarter-newrelic.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -614,20 +519,20 @@ I ran into some limitations using Artillery, since it didn’t support offer &lt
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 36.125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAAsSAAALEgHS3X78AAABCUlEQVQY022Qy04DMQxF8//fwXcgFiCWSCCEoFJppy+mTTPjJE7svAbTWYCAoyziXF9fKwp8AB8BI+cy/UdrDdE7RG3dSDnWRm0CYmO9IqJ2QdqQci51ar+ppYaSNskuAizJrtkuaTywU8xcRf4yTx8QYypz2k/kZUDohpXB3flyNG4taZWYRZvNImLKc/kde5GOPnTgZepUa6uyXZUI1Vu83xmISTpejm6+/KUkjujnLYSUsvyC6oy9WpzejEytt52+6c6vPTz1Yzf6d+NOLoInG5iYc07iFbdJZRt45UkttVltHq8f1nfPhx6cRjqA34E/urAf7BmjdmgweiKIPBLvfVxDGAJxyp9JRJNORg4p6wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 36.19631901840491%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAAsSAAALEgHS3X78AAABCUlEQVQY022Qy04DMQxF8//fwXcgFiCWSCCEoFJppy+mTTPjJE7svAbTWYCAoyziXF9fKwp8AB8BI+cy/UdrDdE7RG3dSDnWRm0CYmO9IqJ2QdqQci51ar+ppYaSNskuAizJrtkuaTywU8xcRf4yTx8QYypz2k/kZUDohpXB3flyNG4taZWYRZvNImLKc/kde5GOPnTgZepUa6uyXZUI1Vu83xmISTpejm6+/KUkjujnLYSUsvyC6oy9WpzejEytt52+6c6vPTz1Yzf6d+NOLoInG5iYc07iFbdJZRt45UkttVltHq8f1nfPhx6cRjqA34E/urAf7BmjdmgweiKIPBLvfVxDGAJxyp9JRJNORg4p6wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;New Relic Dashboard&quot;
         title=&quot;New Relic Dashboard&quot;
-        src=&quot;/static/feff4c61490f4b89faee89d50064af56/6b671/jumpstarter-newrelic.png&quot;
-        srcset=&quot;/static/feff4c61490f4b89faee89d50064af56/f7a0c/jumpstarter-newrelic.png 163w,
-/static/feff4c61490f4b89faee89d50064af56/608ba/jumpstarter-newrelic.png 325w,
-/static/feff4c61490f4b89faee89d50064af56/6b671/jumpstarter-newrelic.png 650w,
-/static/feff4c61490f4b89faee89d50064af56/1ee70/jumpstarter-newrelic.png 975w,
-/static/feff4c61490f4b89faee89d50064af56/f242c/jumpstarter-newrelic.png 1300w,
-/static/feff4c61490f4b89faee89d50064af56/4fa51/jumpstarter-newrelic.png 1600w&quot;
+        src=&quot;/static/feff4c61490f4b89faee89d50064af56/a6d36/jumpstarter-newrelic.png&quot;
+        srcset=&quot;/static/feff4c61490f4b89faee89d50064af56/222b7/jumpstarter-newrelic.png 163w,
+/static/feff4c61490f4b89faee89d50064af56/ff46a/jumpstarter-newrelic.png 325w,
+/static/feff4c61490f4b89faee89d50064af56/a6d36/jumpstarter-newrelic.png 650w,
+/static/feff4c61490f4b89faee89d50064af56/e548f/jumpstarter-newrelic.png 975w,
+/static/feff4c61490f4b89faee89d50064af56/3c492/jumpstarter-newrelic.png 1300w,
+/static/feff4c61490f4b89faee89d50064af56/29007/jumpstarter-newrelic.png 1600w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -639,7 +544,7 @@ I ran into some limitations using Artillery, since it didn’t support offer &lt
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/c8a05aedf9547c0494fe1cbec1256fc4/4fa51/jumpstarter-ec2.png&quot;
+    href=&quot;/static/c8a05aedf9547c0494fe1cbec1256fc4/29007/jumpstarter-ec2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -651,20 +556,20 @@ I ran into some limitations using Artillery, since it didn’t support offer &lt
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 36.125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAAsSAAALEgHS3X78AAAA/ElEQVQY02WQWY6EMAwFuf8NmWkIO1mdOAGBWKR5LP01lpBCnHI9ObPWFkUxDIP3vqoqnNu2rVFV/RG/ZVUWAndlU6P5yfMfIcq+7/M8B5gtyzKOo1JqnmfnHCjc4pw4ydATOxsMEcUYmKUxTmuVUjLG7PueresqpQSMf2DQPnDkqMJITDZYR5RiiIw31jk7TZPW+oVhBm/vapoGHrS/sHvgrxlPDMyQHcfxxn5gxIb5H2xeOEitke+C8fg8zwvu78IwhBFCoIF28DxQC1LRlZaZgh9ui2RmLHjbtgvGkrquCyFgKjaLERxhBFprp6TDRrT3lgiKAR9ghIX5D9RMglww3nvxAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 36.19631901840491%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAAsSAAALEgHS3X78AAAA/ElEQVQY02WQWY6EMAwFuf8NmWkIO1mdOAGBWKR5LP01lpBCnHI9ObPWFkUxDIP3vqoqnNu2rVFV/RG/ZVUWAndlU6P5yfMfIcq+7/M8B5gtyzKOo1JqnmfnHCjc4pw4ydATOxsMEcUYmKUxTmuVUjLG7PueresqpQSMf2DQPnDkqMJITDZYR5RiiIw31jk7TZPW+oVhBm/vapoGHrS/sHvgrxlPDMyQHcfxxn5gxIb5H2xeOEitke+C8fg8zwvu78IwhBFCoIF28DxQC1LRlZaZgh9ui2RmLHjbtgvGkrquCyFgKjaLERxhBFprp6TDRrT3lgiKAR9ghIX5D9RMglww3nvxAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;10 EC2 Instances!&quot;
         title=&quot;AWS Instances&quot;
-        src=&quot;/static/c8a05aedf9547c0494fe1cbec1256fc4/6b671/jumpstarter-ec2.png&quot;
-        srcset=&quot;/static/c8a05aedf9547c0494fe1cbec1256fc4/f7a0c/jumpstarter-ec2.png 163w,
-/static/c8a05aedf9547c0494fe1cbec1256fc4/608ba/jumpstarter-ec2.png 325w,
-/static/c8a05aedf9547c0494fe1cbec1256fc4/6b671/jumpstarter-ec2.png 650w,
-/static/c8a05aedf9547c0494fe1cbec1256fc4/1ee70/jumpstarter-ec2.png 975w,
-/static/c8a05aedf9547c0494fe1cbec1256fc4/f242c/jumpstarter-ec2.png 1300w,
-/static/c8a05aedf9547c0494fe1cbec1256fc4/4fa51/jumpstarter-ec2.png 1600w&quot;
+        src=&quot;/static/c8a05aedf9547c0494fe1cbec1256fc4/a6d36/jumpstarter-ec2.png&quot;
+        srcset=&quot;/static/c8a05aedf9547c0494fe1cbec1256fc4/222b7/jumpstarter-ec2.png 163w,
+/static/c8a05aedf9547c0494fe1cbec1256fc4/ff46a/jumpstarter-ec2.png 325w,
+/static/c8a05aedf9547c0494fe1cbec1256fc4/a6d36/jumpstarter-ec2.png 650w,
+/static/c8a05aedf9547c0494fe1cbec1256fc4/e548f/jumpstarter-ec2.png 975w,
+/static/c8a05aedf9547c0494fe1cbec1256fc4/3c492/jumpstarter-ec2.png 1300w,
+/static/c8a05aedf9547c0494fe1cbec1256fc4/29007/jumpstarter-ec2.png 1600w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -681,22 +586,7 @@ Next steps would be to:&lt;/p&gt;
 &lt;/ol&gt;
 &lt;p&gt;Link to the full repo: &lt;a href=&quot;https://github.com/jump-starter/&quot;&gt;https://github.com/jump-starter/&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Eventright]]></title><description><![CDATA[Predicts events of interest based on user inputted star ratings by building a simple neural network in the browser. Recommendation engine…]]></description><link>https://zhujohnny.com/eventright/</link><guid isPermaLink="false">https://zhujohnny.com/eventright/</guid><pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Predicts events of interest based on user inputted star ratings by building a simple neural network in the browser. Recommendation engine built with Brain.js. &lt;/p&gt;
 &lt;p&gt;View is rendered as a single page app with map and event list components.&lt;/p&gt;
-&lt;div&gt;
-          &lt;div
-            class=&quot;gatsby-resp-iframe-wrapper&quot;
-            style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
-          &gt;
-            &lt;div class=&quot;video-container&quot;&gt;
-  &lt;iframe src=&quot;https://www.youtube.com/embed/vDfJbl9E7ZQ&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen style=&quot;
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-          &quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-          &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Visualizing World Bank Logistics Data]]></title><description><![CDATA[For this project we analyzed data from the  World Bank logistics performance index . The primary questions we wanted to answer were: What’s…]]></description><link>https://zhujohnny.com/wheres-my-widget/</link><guid isPermaLink="false">https://zhujohnny.com/wheres-my-widget/</guid><pubDate>Mon, 02 May 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;For this project we analyzed data from the &lt;a href=&quot;https://lpi.worldbank.org/&quot;&gt;World Bank logistics performance index&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;div class=&quot;video-container&quot;&gt; &lt;iframe src=&quot;https://www.youtube.com/embed/vDfJbl9E7ZQ&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Visualizing World Bank Logistics Data]]></title><description><![CDATA[For this project we analyzed data from the World Bank logistics performance index. The primary questions we wanted to answer were: What’s a…]]></description><link>https://zhujohnny.com/wheres-my-widget/</link><guid isPermaLink="false">https://zhujohnny.com/wheres-my-widget/</guid><pubDate>Mon, 02 May 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;For this project we analyzed data from the &lt;a href=&quot;https://lpi.worldbank.org/&quot;&gt;World Bank logistics performance index&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The primary questions we wanted to answer were:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;What’s a given countries ability to trade?&lt;/li&gt;
@@ -707,7 +597,7 @@ Next steps would be to:&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/fca6c69c4b0736b278794e2bffce55fd/bfa6a/wheres-my-widget.png&quot;
+    href=&quot;/static/fca6c69c4b0736b278794e2bffce55fd/38116/wheres-my-widget.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -719,21 +609,20 @@ Next steps would be to:&lt;/p&gt;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 67.11409395973155%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAACYklEQVQ4y22TXU8TURCG+wuMv4ffoF6YaKIx3mJiGrnyQm4g0QhXxl6QEKupBEqKoAQiAmoJRhCi2IZaCrS225Z+Qbf0S9r9fNzd0nUB35OTzDkzeWfmnXNcsiSRSMRJp9Pk83kKhQLJZJJsOoMsyZjQdR1z2bZja6qGpqgosmqdXY0TmexBnkpFpF6vUzosIRwIpIxdaVRptVtWYJdM1TSbzES9WiMnZCiXa8gaBmHzhFLpkLNQ2T7cYXJjnl+pPetGURXOQ6yJDAwM8KCvD7fbjdfrxdVsNgiFQuSMdk3MRYPcHX3IzcFe7jx1M7Y8jaJLaEYSWVEYW3/L7nGMpcx7vpW+shpcxePx4J/wk8vlcEmGhqZxXK1ahMHEJjc8blw9l+lxX6P/5RB5sWj5PoXXue27z6v9UbyxESKNnyQTKfyTfuLxuBXjcrag6ZptX3nWi+vqJa4P3aPWrFt3z5df0x8c5mN+EX/Uj297it97CcYnxslmsx1C58QsrbSOVmuZEL2zg5RPOpWLLZHlgwVilRiB/VmerHvwRd6RNAjNCo+Ojs4SOp+Es9IP6QU2Cpu01TYRMcxuNUKiGqfWblr+nWiU6Zlp6rXaP8IuWRemrWiqZfuiEzz+Pmz75uMLFP8U7HM4HCYQCGDOwtbQbleWjEyVzsM5JZzZWyJ+LNhyCGLOStbtQhAEtra27AR2hZKkktpdYe7NI1LJ8GmlGsVmGUfxZ7rQzzmsn9K9LBbLfF4c5cXILTbWplDVDqGzg46++gV5nOQ2YavVJvRjmS8rY8afzqBpuhnNxaHB/wbZxV8bC7kyvgsCDAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 66.87116564417178%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAACYklEQVQ4y22TXU8TURCG+wuMv4ffoF6YaKIx3mJiGrnyQm4g0QhXxl6QEKupBEqKoAQiAmoJRhCi2IZaCrS225Z+Qbf0S9r9fNzd0nUB35OTzDkzeWfmnXNcsiSRSMRJp9Pk83kKhQLJZJJsOoMsyZjQdR1z2bZja6qGpqgosmqdXY0TmexBnkpFpF6vUzosIRwIpIxdaVRptVtWYJdM1TSbzES9WiMnZCiXa8gaBmHzhFLpkLNQ2T7cYXJjnl+pPetGURXOQ6yJDAwM8KCvD7fbjdfrxdVsNgiFQuSMdk3MRYPcHX3IzcFe7jx1M7Y8jaJLaEYSWVEYW3/L7nGMpcx7vpW+shpcxePx4J/wk8vlcEmGhqZxXK1ahMHEJjc8blw9l+lxX6P/5RB5sWj5PoXXue27z6v9UbyxESKNnyQTKfyTfuLxuBXjcrag6ZptX3nWi+vqJa4P3aPWrFt3z5df0x8c5mN+EX/Uj297it97CcYnxslmsx1C58QsrbSOVmuZEL2zg5RPOpWLLZHlgwVilRiB/VmerHvwRd6RNAjNCo+Ojs4SOp+Es9IP6QU2Cpu01TYRMcxuNUKiGqfWblr+nWiU6Zlp6rXaP8IuWRemrWiqZfuiEzz+Pmz75uMLFP8U7HM4HCYQCGDOwtbQbleWjEyVzsM5JZzZWyJ+LNhyCGLOStbtQhAEtra27AR2hZKkktpdYe7NI1LJ8GmlGsVmGUfxZ7rQzzmsn9K9LBbLfF4c5cXILTbWplDVDqGzg46++gV5nOQ2YavVJvRjmS8rY8afzqBpuhnNxaHB/wbZxV8bC7kyvgsCDAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Where&apos;s My Widget?&quot;
         title=&quot;Where&apos;s My Widget?&quot;
-        src=&quot;/static/fca6c69c4b0736b278794e2bffce55fd/6b671/wheres-my-widget.png&quot;
-        srcset=&quot;/static/fca6c69c4b0736b278794e2bffce55fd/f7a0c/wheres-my-widget.png 163w,
-/static/fca6c69c4b0736b278794e2bffce55fd/608ba/wheres-my-widget.png 325w,
-/static/fca6c69c4b0736b278794e2bffce55fd/6b671/wheres-my-widget.png 650w,
-/static/fca6c69c4b0736b278794e2bffce55fd/1ee70/wheres-my-widget.png 975w,
-/static/fca6c69c4b0736b278794e2bffce55fd/f242c/wheres-my-widget.png 1300w,
-/static/fca6c69c4b0736b278794e2bffce55fd/30cf5/wheres-my-widget.png 1950w,
-/static/fca6c69c4b0736b278794e2bffce55fd/bfa6a/wheres-my-widget.png 2086w&quot;
+        src=&quot;/static/fca6c69c4b0736b278794e2bffce55fd/a6d36/wheres-my-widget.png&quot;
+        srcset=&quot;/static/fca6c69c4b0736b278794e2bffce55fd/222b7/wheres-my-widget.png 163w,
+/static/fca6c69c4b0736b278794e2bffce55fd/ff46a/wheres-my-widget.png 325w,
+/static/fca6c69c4b0736b278794e2bffce55fd/a6d36/wheres-my-widget.png 650w,
+/static/fca6c69c4b0736b278794e2bffce55fd/e548f/wheres-my-widget.png 975w,
+/static/fca6c69c4b0736b278794e2bffce55fd/3c492/wheres-my-widget.png 1300w,
+/static/fca6c69c4b0736b278794e2bffce55fd/38116/wheres-my-widget.png 2086w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
